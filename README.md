@@ -1,2 +1,2 @@
 # text-search-using-TF-IDF-and-Cosine-Similarity
-this file will contain it
+The main funtion to find the text we want to search at first is turns texts in each files into strings and lemmatize them and removes the stopwards once the stopwards are removed it calculates its Term Frequency and Inverse Term Frequency with the help of which vectors are created once the vectors are created we take input from the user to search the specific text relation with files. After that we find the TF-IDF of this text also once this is done we come to main part of the task that is to predict the file, so to do so we find out the COSINE SIMILARITY and the text file with higest cosine similarity is the file which is most similar to the entered text
